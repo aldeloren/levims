@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/Anthony/development/wordpress/plugin/accessbility/release'
+let g:netrw_dirhist_2='/Users/Anthony/development/php/directory'
+let g:netrw_dirhist_3='/Users/Anthony/development/wordpress/plugin/monitoring'
